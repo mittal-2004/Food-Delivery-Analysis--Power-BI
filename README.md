@@ -3,6 +3,15 @@
 An interactive multi-page Power BI dashboard analyzing food delivery operations across cities, covering revenue performance, customer behavior, restaurant metrics, and delivery efficiency.
 
 ---
+<img width="1288" height="732" alt="image" src="https://github.com/user-attachments/assets/19cb4b05-80cc-42be-a00d-6778a217f9f2" />
+<br> <br>
+<img width="1306" height="732" alt="image" src="https://github.com/user-attachments/assets/5e39b27d-b086-47f5-9b9d-df37590b28ef" />
+<br> <br>
+<img width="1297" height="712" alt="image" src="https://github.com/user-attachments/assets/2daa06f2-9e05-45f9-b825-3952ca367f43" />
+<br> <br>
+<img width="1303" height="722" alt="image" src="https://github.com/user-attachments/assets/46dd9307-8ef5-4011-bd40-c5792f3504ef" />
+
+
 
 ## 📊 Dashboard Overview
 
